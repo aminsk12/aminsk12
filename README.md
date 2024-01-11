@@ -1,4 +1,3 @@
-![I'm a self-taught passionate FrontEnd developer from India 🇮🇳](https://media.licdn.com/dms/image/C4D16AQFasa2uJRpyIA/profile-displaybackgroundimage-shrink_350_1400/0/1654667954791?e=1709769600&v=beta&t=6JcqOVuToYLqOZO4-WFKNJii1kgsff6UtsyQQYKrlGU)
 ### Hi there 👋, I'm Amin sk
 #### I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
