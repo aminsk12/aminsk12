@@ -1,5 +1,11 @@
 ### Hi there 👋, I'm Amin sk
 #### Ful Stack Web Devloper
+
+<p align="center" width="500px">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&pause=1000&color=4078C0&center=true&vCenter=true&random=false&width=450&lines=Welcome+to+my+GitHub+profile+%F0%9F%98%87;Happy+to+see+you+here+%F0%9F%98%80;Specializing+in+Full+Stack+Development+%F0%9F%92%BB;Building+Creative+and+Responsive+Web+Apps+%F0%9F%8C%90;Let's+Collaborate+on+Amazing+Projects+%F0%9F%A4%9D;Feel+Free+to+Reach+Out+%F0%9F%A4%97;Have+a+Great+Day+%F0%9F%98%8A" alt="Typing SVG" /></a>
+</p>
+
+
 ![Ful Stack Web Devloper](https://media.licdn.com/dms/image/v2/D4D16AQHULuSucz3Fcg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733893516306?e=1739404800&v=beta&t=7NJ0SfIn6VquPt_wKiXnY2y9KaRwZQodeOYOdsoc_1c)
 
 Greetings! 
